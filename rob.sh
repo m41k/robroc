@@ -23,7 +23,7 @@ Hi human, I'm bursting the rockets.
 
 EOF
 
-midori -i 5
+midori -i 5 &
 
 RUN=1
 until [ RUN = 1 ];
