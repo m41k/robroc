@@ -58,7 +58,7 @@ UAGENT=${BROWSER[$RANBRO]}
  /etc/init.d/tor restart
  midori &
  sleep 3
- midori -e identify-as=MIDORI_IDENT_CUSTOM -e user-agent=$UAGENT -e Go $SITE
+ midori -e identify-as=MIDORI_IDENT_CUSTOM -e user-agent="$UAGENT" -e Go $SITE
  sleep 5
  killall midori
  done
