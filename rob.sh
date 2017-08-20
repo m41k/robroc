@@ -6,14 +6,10 @@ cat > roc.html << EOF
 <title>RobRoc</title>
 <body>
 <script languague="javascript">
-window.open('http://go.oclasrv.com/afu.php?id=1364720')
-window.open('http://go.onclasrv.com/afu.php?id=1364721')
-window.open('http://go.onclasrv.com/afu.php?id=1364722')
-window.open('http://go.oclasrv.com/afu.php?id=1364723')
-window.open('http://go.pub2srv.com/afu.php?id=1364724')
-window.open('http://go.onclasrv.com/afu.php?id=1364725')
-window.open('http://go.onclasrv.com/afu.php?zoneid=1364728')
-window.open('http://go.oclaserver.com/afu.php?zoneid=1364729')
+window.open('http://coginator.com/Xrl')
+window.open('http://coginator.com/X9E')
+window.open('http://adf.ly/17715467/luw.servehttp.com')
+window.open('http://adf.ly/17715467/banner/luw.servehttp.com')
 </script>
 <h1>RobRoc</h1>
 <hr>
@@ -23,11 +19,10 @@ Hi human, I'm bursting the rockets.
 
 EOF
 
-midori -i 5 &
-
 RUN=1
 until [ RUN = 1 ];
  do
+  /etc/init.d/tor restart
 # [ $(free -m | grep Mem | tr -s " " | cut -d " " -f4) -le 100 ] && sysctl -w v$
   MEM=`free -m | grep Mem | tr -s " " | cut -d " " -f4`
   if [ $MEM -le 100 ]; then
@@ -36,5 +31,7 @@ until [ RUN = 1 ];
    sleep 3
    midori &
   fi
- sleep 1
+ midori &
+ sleep 15
+ killall midori
  done
