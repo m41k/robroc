@@ -1,0 +1,22 @@
+Trystack - WFedroa - Fedora - 1500 
+D1 - http://go.onclasrv.com/afu.php?id=1368098
+
+Yellow Circle - Teste2 - Win - 1000
+D2 - http://go.pub2srv.com/afu.php?id=1379067
+
+Yellow Circle - Teste3 - Win - 1000
+D3 - http://go.oclasrv.com/afu.php?id=1379189
+
+Trystack - Teste2 - VM - 1000 
+D4 - http://go.pub2srv.com/afu.php?id=1389132
+
+Trystack - Wine - Fedora - 1500 
+D5 - http://go.oclaserver.com/afu.php?id=1389429
+
+
+
+WEB - TEMP
+D6 - http://go.onclasrv.com/afu.php?id=1390783
+D7 - http://go.oclasrv.com/afu.php?id=1390789
+D8 - http://go.oclasrv.com/afu.php?id=1390792
+D9 - http://go.onclasrv.com/afu.php?id=1390793
