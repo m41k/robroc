@@ -1,3 +1,14 @@
+D1 - http://go.onclasrv.com/afu.php?id=1368098
+D2 - http://go.pub2srv.com/afu.php?id=1379067
+D3 - http://go.oclasrv.com/afu.php?id=1379189
+D4 - http://go.pub2srv.com/afu.php?id=1389132
+D5 - http://go.oclaserver.com/afu.php?id=1389429
+D6 - http://go.onclasrv.com/afu.php?id=1390783
+D7 - http://go.oclasrv.com/afu.php?id=1390789
+D8 - http://go.oclasrv.com/afu.php?id=1390792
+D9  -http://go.onclasrv.com/afu.php?id=1390793
+D0 - http://go.onclasrv.com/afu.php?id=1397079
+
 Trystack - WFedroa - Fedora - 1500 
 D1 - http://go.onclasrv.com/afu.php?id=1368098
 
